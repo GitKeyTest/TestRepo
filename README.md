@@ -1,9 +1,11 @@
-# TestRepo
+### TestRepo
 
-This is a test repo- created for GitKey app!
+-Adding another line to readme for GitKey test.
 
-Added some more text.
+-This is a test repo- created for GitKey app!
 
-Adding yet another line in the readme!
+-Added some more text.
+
+-Adding yet another line in the readme!
 
 
